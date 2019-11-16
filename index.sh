@@ -52,7 +52,7 @@ print_usage() {
 }
 
 case $1 in
-star)
+start)
   echo 'start executed!'
   ;;
 build)
