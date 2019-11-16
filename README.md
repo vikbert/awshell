@@ -1,6 +1,6 @@
 # AwShell
 
-A simple shell to manage the commands with pretty output for the command usage
+A simple shell to manage the commands and it prints the pretty output for the command usage
 
 ![](awshell.png)
 
