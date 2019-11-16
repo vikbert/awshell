@@ -53,7 +53,7 @@ print_usage() {
 
 case $1 in
 start)
-  echo 'start executed!'
+  ls -al
   ;;
 build)
   echo 'build executed!'
